@@ -7,6 +7,8 @@ Sesión 01
 - Revisión de temario 
 - Acuerdos (cámara, asistencia y entregas)
 - Processing
+  - Versiones
+  - ¿Qué recuerdan 
   - Código creativo 2do y experiencias previas
-  - Objetos, funciones y estructuras que hayan visto
+  - Objetos, funciones y estructuras para arrancar el curso > repaso 
   
